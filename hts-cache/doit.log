@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tailwindcss.com/docs/installation -O1 "C:\My Web Sites\Tailwind-CSS-DOCS" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*[name].github.com/* -*[name].*[name]github*[name].*[name]/* -https://github.com//* -*github* -*[name].tailwindui.com/* -*[name].*[name]tailwindui*[name].*[name]/* -https://tailwindui.com//* -*tailwindui* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp -*.zip -*.tar -*.tgz -*.gz -*.rar -*.z -*.exe -*v2.tailwindcss* -*v1.tailwindcss* -tailwindcss-v0.netlify.app/*
+File generated automatically on Thu, 02 Mar 2023 23:51:47, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

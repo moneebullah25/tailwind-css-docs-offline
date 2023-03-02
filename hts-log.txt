@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 02 Mar 2023 23:51:47 at https://tailwindcss.com/docs/installation +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*[name].github.com/* -*[name].*[name]github*[name].*[name]/* -https://github.com//* -*github* -*[name].tailwindui.com/* -*[name].*[name]tailwindui*[name].*[name]/* -https://tailwindui.com//* -*tailwindui* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp -*.zip -*.tar -*.tgz -*.gz -*.rar -*.z -*.exe -*v2.tailwindcss* -*v1.tailwindcss* -tailwindcss-v0.netlify.app/*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tailwindcss.com/docs/installation -O1 "C:\My Web Sites\Tailwind-CSS-DOCS" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar -*[name].github.com/* -*[name].*[name]github*[name].*[name]/* -https://github.com//* -*github* -*[name].tailwindui.com/* -*[name].*[name]tailwindui*[name].*[name]/* -https://tailwindui.com//* -*tailwindui* +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp -*.zip -*.tar -*.tgz -*.gz -*.rar -*.z -*.exe -*v2.tailwindcss* -*v1.tailwindcss* -tailwindcss-v0.netlify.app/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:54:11	Error: 	"Not Found" (404) at link https://tailwindcss.com/what_a_rush.png (from https://tailwindcss.com/_next/static/css/e7c43a1e0dc5e264.css)
+23:55:24	Error: 	"Not Found" (404) at link https://tailwindcss.com/docs/adding-custom-styles#adding-base-styles (from https://tailwindcss.com/docs/preflight)
+23:55:24	Error: 	"Not Found" (404) at link https://tailwindcss.com/docs/ring-color#changing-the-opacity (from https://tailwindcss.com/docs/ring-width)
+23:55:32	Warning: 	Retry after error -4 (Connect Error) at link https://unpkg.com/tailwindcss@3.2.7/stubs/defaultConfig.stub.js (from https://unpkg.com/browse/tailwindcss@3.2.7/stubs/defaultConfig.stub.js)
+23:55:32	Warning: 	Retry after error -4 (Connect Error) at link https://unpkg.com/react@16.8.6/umd/react.production.min.js (from https://unpkg.com/browse/tailwindcss@3.2.7/stubs/defaultConfig.stub.js)
+23:55:32	Warning: 	Retry after error -4 (Connect Error) at link https://unpkg.com/react-dom@16.8.6/umd/react-dom.production.min.js (from https://unpkg.com/browse/tailwindcss@3.2.7/stubs/defaultConfig.stub.js)
+23:55:33	Error: 	"Not Found" (404) at link https://tailwindcss.com/docs/guides/resources/css/app.css (from https://tailwindcss.com/docs/guides/laravel)
+23:55:33	Error: 	"Not Found" (404) at link https://tailwindcss.com/docs/guides/css/app.css (from https://tailwindcss.com/docs/guides/laravel)
+23:55:33	Error: 	"Not Found" (404) at link https://tailwindcss.com/docs/guides/npx parcel src/index.html (from https://tailwindcss.com/docs/guides/parcel)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 50 seconds : 509 links scanned, 499 files written (38814860 bytes overall) [8087978 bytes received at 35165 bytes/sec], 36240305 bytes transferred using HTTP compression in 471 files, ratio 13%, 37.8 requests per connection
+(6 errors, 3 warnings, 0 messages)
